@@ -35,3 +35,4 @@ Config for my Voron Salad Fork aka Salad Fingers.
 - [ ] Configure EBB36 AXDL
 - [ ] Tweak calibration speeds and distances
 - [ ] Boop?
+- [ ] Preheat macro
