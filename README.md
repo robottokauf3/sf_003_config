@@ -19,20 +19,16 @@ Config for my Voron Salad Fork aka Salad Fingers.
 - Titanium gantry backers
 - Nevermore-ish rear filter
 - Electronics bay fans
+- BFI idlers
+- Boop
+- Angry CAM
 
 ## Todo
 
-- [ ] Organize config files
 - [ ] Install bed fans
-- [ ] Install toolhead neopixel mini button 
 - [ ] Tweak Klipper Screen
 - [ ] Debug purge line macro
 - [ ] Uninstall purge bucket
-- [ ] Swap stock endstop for sex bolt
-- [ ] Z motor covers?
 - [ ] New handles
-- [ ] BFI idlers
-- [ ] Configure EBB36 AXDL
 - [ ] Tweak calibration speeds and distances
-- [ ] Boop?
 - [ ] Preheat macro
